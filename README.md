@@ -194,3 +194,5 @@ npm test
 ```
 
 ![Tests](images/tests.png "Tests")
+
+## Added a new line
